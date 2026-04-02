@@ -1,7 +1,7 @@
 // ===== 0. Supabase 設定 =====
-const SUPABASE_URL = "https://xyiwwgmcduonlbdjgufr.supabase.co";
+const SUPABASE_URL = "https://fzoygrdtzffstwrhojbh.supabase.co";
 const SUPABASE_KEY =
-  "sb_publishable_X53Cpp8dwHeL5zs06sOc4w_HV2fgguW";
+  "sb_publishable_fakjjV1WpELBYllwCXU4HA__A5I0gqP";
 
 // 由 CDN 載入的 supabase 物件
 const supabaseClient = window.supabase.createClient(
